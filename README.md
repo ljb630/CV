@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shaiklaljanbasha31@gmail.com**
 
-- ⚡ Fun fact ** As a tech team member, I once debugged a computer glitch so mysterious that it made my co-workers believe we had a ghost in the machine! We eventually cracked the code, but we still wonder if our office has a resident tech-savvy ghost.👻💻😄**
+- ⚡ Fun fact **As a tech team member, I once debugged a computer glitch so mysterious that it made my co-workers believe we had a ghost in the machine! We eventually cracked the code, but we still wonder if our office has a resident tech-savvy ghost.👻💻😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
