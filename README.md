@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **QA / Tech Support**
+- 👯 I’m looking to collaborate on **QA / Tech Support & Frontend**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/laljanbasha-shaik-1490b319b/](https://www.linkedin.com/in/laljanbasha-shaik-1490b319b/)
 
