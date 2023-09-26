@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laljan Basha Shaik</h1>
 <h3 align="center">Technical Support Engineer | Debugging, Ticketing, Integrating & Reports | HTML, CSS, Shopify & WordPress | Passionate about blockchain and cybersecurity 
-📱 **Mobile**: +91-8977247420 📧 **Email**: shaiklaljanbasha31@gmail.com</h3>
+📱 Mobile: +91-8977247420 📧 Email: shaiklaljanbasha31@gmail.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ljb630&label=Profile%20views&color=0e75b6&style=flat" alt="ljb630" /> </p>
 
