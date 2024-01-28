@@ -11,7 +11,7 @@ Goal-oriented professional with over 3+ years of experience in Technical Support
 
 - 🔭 I’m currently working on [MERCANS](https://mercans.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Web 3**
 
 - 👯 I’m looking to collaborate on **QA / Tech Support & Frontend**
 
