@@ -13,8 +13,6 @@ Goal-oriented professional with over 3+ years of experience in Technical Support
 
 - 🌱 I’m currently learning **Web 3**
 
-- 👯 I’m looking to collaborate on **QA / Tech Support & Frontend**
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/laljanbasha-shaik-1490b319b/](https://www.linkedin.com/in/laljanbasha-shaik-1490b319b/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/cyber-savvy-ljb630-7050934971867295744/](https://www.linkedin.com/newsletters/cyber-savvy-ljb630-7050934971867295744/)
