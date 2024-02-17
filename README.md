@@ -17,7 +17,12 @@ Goal-oriented professional with over 3+ years of experience in Technical Support
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/cyber-savvy-ljb630-7050934971867295744/](https://www.linkedin.com/newsletters/cyber-savvy-ljb630-7050934971867295744/)
 
-- 💬 Ask me about **Html, CSS, Js, Json & XML**
+**- 💬 Ask me about**
+Languages: Python (Basics), Javascript, HTML, CSS
+Web Development: React, Vue
+Technology: API, JSON, XML, Basics SQL
+Tools: Git, GitHub,Apache Benchmark (ab), Freshdesk, Xray for JIRA, Postman, PyTest Testing: Selenium WebDriver
+Project Management: Trello, Asana
 
 - 📫 How to reach me **shaiklaljanbasha31@gmail.com**
 
